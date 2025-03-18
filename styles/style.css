@@ -33,4 +33,8 @@
   margin: 2%; /* Add margin between cards */
 }
 
+.material-icons{
+  cursor: pointer;
+}
+
 
